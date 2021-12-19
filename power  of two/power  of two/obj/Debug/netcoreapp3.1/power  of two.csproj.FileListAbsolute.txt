@@ -1,0 +1,14 @@
+D:\visuals\power  of two\power  of two\bin\Debug\netcoreapp3.1\power  of two.exe
+D:\visuals\power  of two\power  of two\bin\Debug\netcoreapp3.1\power  of two.deps.json
+D:\visuals\power  of two\power  of two\bin\Debug\netcoreapp3.1\power  of two.runtimeconfig.json
+D:\visuals\power  of two\power  of two\bin\Debug\netcoreapp3.1\power  of two.runtimeconfig.dev.json
+D:\visuals\power  of two\power  of two\bin\Debug\netcoreapp3.1\power  of two.dll
+D:\visuals\power  of two\power  of two\bin\Debug\netcoreapp3.1\power  of two.pdb
+D:\visuals\power  of two\power  of two\obj\Debug\netcoreapp3.1\power  of two.csproj.AssemblyReference.cache
+D:\visuals\power  of two\power  of two\obj\Debug\netcoreapp3.1\power  of two.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\power  of two\power  of two\obj\Debug\netcoreapp3.1\power  of two.AssemblyInfoInputs.cache
+D:\visuals\power  of two\power  of two\obj\Debug\netcoreapp3.1\power  of two.AssemblyInfo.cs
+D:\visuals\power  of two\power  of two\obj\Debug\netcoreapp3.1\power  of two.csproj.CoreCompileInputs.cache
+D:\visuals\power  of two\power  of two\obj\Debug\netcoreapp3.1\power  of two.dll
+D:\visuals\power  of two\power  of two\obj\Debug\netcoreapp3.1\power  of two.pdb
+D:\visuals\power  of two\power  of two\obj\Debug\netcoreapp3.1\power  of two.genruntimeconfig.cache

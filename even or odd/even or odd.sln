@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "even or odd", "even or odd\even or odd.csproj", "{966F0863-F8E8-48B0-92E5-FA37F2CBB10B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966F0863-F8E8-48B0-92E5-FA37F2CBB10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966F0863-F8E8-48B0-92E5-FA37F2CBB10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966F0863-F8E8-48B0-92E5-FA37F2CBB10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966F0863-F8E8-48B0-92E5-FA37F2CBB10B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E27295DD-8258-47DE-BF34-5458599FFE04}
+	EndGlobalSection
+EndGlobal

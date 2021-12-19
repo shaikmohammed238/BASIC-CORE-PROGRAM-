@@ -1,0 +1,14 @@
+D:\visuals\largest three numbers\largest three numbers\bin\Debug\netcoreapp3.1\largest three numbers.exe
+D:\visuals\largest three numbers\largest three numbers\bin\Debug\netcoreapp3.1\largest three numbers.deps.json
+D:\visuals\largest three numbers\largest three numbers\bin\Debug\netcoreapp3.1\largest three numbers.runtimeconfig.json
+D:\visuals\largest three numbers\largest three numbers\bin\Debug\netcoreapp3.1\largest three numbers.runtimeconfig.dev.json
+D:\visuals\largest three numbers\largest three numbers\bin\Debug\netcoreapp3.1\largest three numbers.dll
+D:\visuals\largest three numbers\largest three numbers\bin\Debug\netcoreapp3.1\largest three numbers.pdb
+D:\visuals\largest three numbers\largest three numbers\obj\Debug\netcoreapp3.1\largest three numbers.csproj.AssemblyReference.cache
+D:\visuals\largest three numbers\largest three numbers\obj\Debug\netcoreapp3.1\largest three numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\largest three numbers\largest three numbers\obj\Debug\netcoreapp3.1\largest three numbers.AssemblyInfoInputs.cache
+D:\visuals\largest three numbers\largest three numbers\obj\Debug\netcoreapp3.1\largest three numbers.AssemblyInfo.cs
+D:\visuals\largest three numbers\largest three numbers\obj\Debug\netcoreapp3.1\largest three numbers.csproj.CoreCompileInputs.cache
+D:\visuals\largest three numbers\largest three numbers\obj\Debug\netcoreapp3.1\largest three numbers.dll
+D:\visuals\largest three numbers\largest three numbers\obj\Debug\netcoreapp3.1\largest three numbers.pdb
+D:\visuals\largest three numbers\largest three numbers\obj\Debug\netcoreapp3.1\largest three numbers.genruntimeconfig.cache

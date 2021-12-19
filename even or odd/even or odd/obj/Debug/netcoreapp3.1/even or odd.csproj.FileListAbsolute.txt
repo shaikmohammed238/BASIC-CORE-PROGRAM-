@@ -1,0 +1,14 @@
+D:\visuals\even or odd\even or odd\bin\Debug\netcoreapp3.1\even or odd.exe
+D:\visuals\even or odd\even or odd\bin\Debug\netcoreapp3.1\even or odd.deps.json
+D:\visuals\even or odd\even or odd\bin\Debug\netcoreapp3.1\even or odd.runtimeconfig.json
+D:\visuals\even or odd\even or odd\bin\Debug\netcoreapp3.1\even or odd.runtimeconfig.dev.json
+D:\visuals\even or odd\even or odd\bin\Debug\netcoreapp3.1\even or odd.dll
+D:\visuals\even or odd\even or odd\bin\Debug\netcoreapp3.1\even or odd.pdb
+D:\visuals\even or odd\even or odd\obj\Debug\netcoreapp3.1\even or odd.csproj.AssemblyReference.cache
+D:\visuals\even or odd\even or odd\obj\Debug\netcoreapp3.1\even or odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\even or odd\even or odd\obj\Debug\netcoreapp3.1\even or odd.AssemblyInfoInputs.cache
+D:\visuals\even or odd\even or odd\obj\Debug\netcoreapp3.1\even or odd.AssemblyInfo.cs
+D:\visuals\even or odd\even or odd\obj\Debug\netcoreapp3.1\even or odd.csproj.CoreCompileInputs.cache
+D:\visuals\even or odd\even or odd\obj\Debug\netcoreapp3.1\even or odd.dll
+D:\visuals\even or odd\even or odd\obj\Debug\netcoreapp3.1\even or odd.pdb
+D:\visuals\even or odd\even or odd\obj\Debug\netcoreapp3.1\even or odd.genruntimeconfig.cache

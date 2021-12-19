@@ -1,0 +1,14 @@
+D:\visuals\swap two numbers\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.csproj.AssemblyReference.cache
+D:\visuals\swap two numbers\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\swap two numbers\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.AssemblyInfoInputs.cache
+D:\visuals\swap two numbers\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.AssemblyInfo.cs
+D:\visuals\swap two numbers\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.csproj.CoreCompileInputs.cache
+D:\visuals\swap two numbers\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.exe
+D:\visuals\swap two numbers\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.deps.json
+D:\visuals\swap two numbers\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.runtimeconfig.json
+D:\visuals\swap two numbers\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.runtimeconfig.dev.json
+D:\visuals\swap two numbers\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.dll
+D:\visuals\swap two numbers\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.pdb
+D:\visuals\swap two numbers\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.dll
+D:\visuals\swap two numbers\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.pdb
+D:\visuals\swap two numbers\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.genruntimeconfig.cache

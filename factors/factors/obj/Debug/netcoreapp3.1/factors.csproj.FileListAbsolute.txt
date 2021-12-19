@@ -1,0 +1,14 @@
+D:\visuals\factors\factors\bin\Debug\netcoreapp3.1\factors.exe
+D:\visuals\factors\factors\bin\Debug\netcoreapp3.1\factors.deps.json
+D:\visuals\factors\factors\bin\Debug\netcoreapp3.1\factors.runtimeconfig.json
+D:\visuals\factors\factors\bin\Debug\netcoreapp3.1\factors.runtimeconfig.dev.json
+D:\visuals\factors\factors\bin\Debug\netcoreapp3.1\factors.dll
+D:\visuals\factors\factors\bin\Debug\netcoreapp3.1\factors.pdb
+D:\visuals\factors\factors\obj\Debug\netcoreapp3.1\factors.csproj.AssemblyReference.cache
+D:\visuals\factors\factors\obj\Debug\netcoreapp3.1\factors.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\factors\factors\obj\Debug\netcoreapp3.1\factors.AssemblyInfoInputs.cache
+D:\visuals\factors\factors\obj\Debug\netcoreapp3.1\factors.AssemblyInfo.cs
+D:\visuals\factors\factors\obj\Debug\netcoreapp3.1\factors.csproj.CoreCompileInputs.cache
+D:\visuals\factors\factors\obj\Debug\netcoreapp3.1\factors.dll
+D:\visuals\factors\factors\obj\Debug\netcoreapp3.1\factors.pdb
+D:\visuals\factors\factors\obj\Debug\netcoreapp3.1\factors.genruntimeconfig.cache
